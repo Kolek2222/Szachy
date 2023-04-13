@@ -1,0 +1,33 @@
+
+body{font-family: arial;
+background-color: rgb(122, 122, 122);}
+
+h1 
+
+{font-size: 50px;
+    color: black;
+    padding: 10px 60px 20px 60px;}
+
+    h2
+
+{font-size: 28px;}
+
+    p
+
+    {font-size: 19px;}
+
+
+    span
+
+{color: rgb(65, 65, 65);}
+
+   
+    img
+
+{width:150px; height:150px;
+border-style: solid ;
+border}
+
+section, header {
+    padding: 10px 60px 20px 60px ;
+background-color: rgb(225, 240, 247);}
